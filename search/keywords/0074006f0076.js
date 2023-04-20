@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tov",["Function"],[["ToValidSimpleIdentifier",,[["MoonSharp.Interpreter.Interop.DescriptorHelpers",,,,0,"File:Plugins/MoonSharp/Interpreter/Interop/DescriptorHelpers.cs:MoonSharp.Interpreter.Interop.DescriptorHelpers.ToValidSimpleIdentifier","CSharpClass:MoonSharp.Interpreter.Interop.DescriptorHelpers:ToValidSimpleIdentifier"]]]]);

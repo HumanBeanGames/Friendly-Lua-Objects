@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isl",["Function"],[["islower",,[["MoonSharp.Interpreter.Interop.LuaStateInterop.LuaBase",,,,0,"File:Plugins/MoonSharp/Interpreter/Interop/LuaStateInterop/LuaBase_CLib.cs:MoonSharp.Interpreter.Interop.LuaStateInterop.LuaBase.islower","CSharpClass:MoonSharp.Interpreter.Interop.LuaStateInterop.LuaBase:islower"]]]]);

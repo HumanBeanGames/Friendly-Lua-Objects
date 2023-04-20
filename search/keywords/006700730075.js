@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gsu",["Function"],[["gsub",,[["MoonSharp.Interpreter.CoreLib.StringModule",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/StringModule.cs:MoonSharp.Interpreter.CoreLib.StringModule.gsub","CSharpClass:MoonSharp.Interpreter.CoreLib.StringModule:gsub"]]]]);

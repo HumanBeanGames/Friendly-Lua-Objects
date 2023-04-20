@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("epo",["Variable"],[["Epoch",,[["MoonSharp.Interpreter.CoreLib.OsTimeModule",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/OsTimeModule.cs:MoonSharp.Interpreter.CoreLib.OsTimeModule.Epoch","CSharpClass:MoonSharp.Interpreter.CoreLib.OsTimeModule:Epoch"]]]]);

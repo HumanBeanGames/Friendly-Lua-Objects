@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_bu",["Variable"],[["_buffer",,[["MoonSharp.VsCodeDebugger.SDK.ByteBuffer",,,,0,"File:Plugins/MoonSharp/Debugger/SDK/Protocol.cs:MoonSharp.VsCodeDebugger.SDK.ByteBuffer._buffer","CSharpClass:MoonSharp.VsCodeDebugger.SDK.ByteBuffer:_buffer"]]]]);

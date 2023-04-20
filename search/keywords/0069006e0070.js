@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("inp",["Function"],[["input",,[["MoonSharp.Interpreter.CoreLib.IoModule",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/IoModule.cs:MoonSharp.Interpreter.CoreLib.IoModule.input","CSharpClass:MoonSharp.Interpreter.CoreLib.IoModule:input"]]]]);

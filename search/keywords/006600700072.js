@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fpr",["Function"],[["fprintf",,[["MoonSharp.Interpreter.Interop.LuaStateInterop.Tools",,,,0,"File:Plugins/MoonSharp/Interpreter/Interop/LuaStateInterop/Tools.cs:MoonSharp.Interpreter.Interop.LuaStateInterop.Tools.fprintf","CSharpClass:MoonSharp.Interpreter.Interop.LuaStateInterop.Tools:fprintf"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("s_f",["Variable"],[["s_FrameworkCurrent",,[["MoonSharp.Interpreter.Compatibility.Framework",,,,0,"File:Plugins/MoonSharp/Interpreter/Compatibility/Framework.cs:MoonSharp.Interpreter.Compatibility.Framework.s_FrameworkCurrent","CSharpClass:MoonSharp.Interpreter.Compatibility.Framework:s_FrameworkCurrent"]]]]);

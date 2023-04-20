@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({677:"<div class=\"NDToolTip TClass LCSharp\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype677\"><div class=\"CPEntry TClass Current\"><div class=\"CPModifiers\"><span class=\"SHKeyword\">internal</span></div><div class=\"CPName\"><span class=\"Qualifier\">System.&#8203;Diagnostics.</span>&#8203;Stopwatch</div></div></div></div>"});

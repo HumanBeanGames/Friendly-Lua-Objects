@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("suc",["Property"],[["success",,[["MoonSharp.VsCodeDebugger.SDK.Response",,,,0,"File:Plugins/MoonSharp/Debugger/SDK/Protocol.cs:MoonSharp.VsCodeDebugger.SDK.Response.success","CSharpClass:MoonSharp.VsCodeDebugger.SDK.Response:success"]]]]);

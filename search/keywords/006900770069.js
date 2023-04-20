@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("iwi",["Interface"],[["IWireableDescriptor",,[["MoonSharp.Interpreter.Interop.BasicDescriptors",,,,0,"File:Plugins/MoonSharp/Interpreter/Interop/IWireableDescriptor.cs:MoonSharp.Interpreter.Interop.BasicDescriptors.IWireableDescriptor","CSharpClass:MoonSharp.Interpreter.Interop.BasicDescriptors.IWireableDescriptor"]]]]);

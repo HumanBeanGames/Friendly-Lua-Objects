@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("enc",["Variable"],[["Encoding",,[["MoonSharp.VsCodeDebugger.SDK.ProtocolServer",,,,0,"File:Plugins/MoonSharp/Debugger/SDK/Protocol.cs:MoonSharp.VsCodeDebugger.SDK.ProtocolServer.Encoding","CSharpClass:MoonSharp.VsCodeDebugger.SDK.ProtocolServer:Encoding"]]]]);

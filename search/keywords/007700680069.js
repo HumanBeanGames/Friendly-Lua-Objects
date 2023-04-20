@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("whi",["Class"],[["WhileStatement",,[["MoonSharp.Interpreter.Tree.Statements",,,,0,"File:Plugins/MoonSharp/Interpreter/Tree/Statements/WhileStatement.cs:MoonSharp.Interpreter.Tree.Statements.WhileStatement","CSharpClass:MoonSharp.Interpreter.Tree.Statements.WhileStatement"]]]]);

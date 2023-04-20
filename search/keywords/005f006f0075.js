@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_ou",["Variable"],[["_outputStream",,[["MoonSharp.VsCodeDebugger.SDK.ProtocolServer",,,,0,"File:Plugins/MoonSharp/Debugger/SDK/Protocol.cs:MoonSharp.VsCodeDebugger.SDK.ProtocolServer._outputStream","CSharpClass:MoonSharp.VsCodeDebugger.SDK.ProtocolServer:_outputStream"]]]]);

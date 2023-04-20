@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nbi",["Function"],[["NBitMask",,[["MoonSharp.Interpreter.CoreLib.Bit32Module",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/Bit32Module.cs:MoonSharp.Interpreter.CoreLib.Bit32Module.NBitMask","CSharpClass:MoonSharp.Interpreter.CoreLib.Bit32Module:NBitMask"]]]]);

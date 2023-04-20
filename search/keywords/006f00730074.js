@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ost",["Class"],[["OsTimeModule",,[["MoonSharp.Interpreter.CoreLib",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/OsTimeModule.cs:MoonSharp.Interpreter.CoreLib.OsTimeModule","CSharpClass:MoonSharp.Interpreter.CoreLib.OsTimeModule"]]]]);

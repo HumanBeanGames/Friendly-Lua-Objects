@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gui",["Class"],[["GuidAttribute",,[["System.Reflection",,,,0,"File:Plugins/MoonSharp/Interpreter/Compatibility/Attributes.cs:System.Reflection.GuidAttribute","CSharpClass:System.Reflection.GuidAttribute"]]]]);

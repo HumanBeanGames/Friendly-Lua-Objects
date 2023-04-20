@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Plugins/MoonSharp/Interpreter/DataTypes/CoroutineState.cs",{1346:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype1346\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> CoroutineState</div></div><div class=\"TTSummary\">State of coroutines</div></div>"});

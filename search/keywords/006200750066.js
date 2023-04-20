@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("buf",["Constant"],[["BUFFER_SIZE",,[["MoonSharp.VsCodeDebugger.SDK.ProtocolServer",,,,0,"File:Plugins/MoonSharp/Debugger/SDK/Protocol.cs:MoonSharp.VsCodeDebugger.SDK.ProtocolServer.BUFFER_SIZE","CSharpClass:MoonSharp.VsCodeDebugger.SDK.ProtocolServer:BUFFER_SIZE"]]]]);

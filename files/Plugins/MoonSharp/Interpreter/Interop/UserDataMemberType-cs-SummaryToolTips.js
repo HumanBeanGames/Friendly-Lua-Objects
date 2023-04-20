@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Plugins/MoonSharp/Interpreter/Interop/UserDataMemberType.cs",{2994:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype2994\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> UserDataMemberType</div></div></div>"});

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ofd",["Function"],[["OfDataType",,[["MoonSharp.Interpreter.LinqHelpers",,,,0,"File:Plugins/MoonSharp/Interpreter/LinqHelpers.cs:MoonSharp.Interpreter.LinqHelpers.OfDataType","CSharpClass:MoonSharp.Interpreter.LinqHelpers:OfDataType"]]]]);

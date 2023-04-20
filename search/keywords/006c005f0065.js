@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("l_e",["Constant"],[["L_ESC",,[["MoonSharp.Interpreter.CoreLib.StringLib.KopiLua_StringLib",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/StringLib/KopiLua_StrLib.cs:MoonSharp.Interpreter.CoreLib.StringLib.KopiLua_StringLib.L_ESC","CSharpClass:MoonSharp.Interpreter.CoreLib.StringLib.KopiLua_StringLib:L_ESC"]]]]);

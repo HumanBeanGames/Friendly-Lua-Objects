@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("exc",["Variable"],[["exceptionBreakpointFilters",,[["MoonSharp.VsCodeDebugger.SDK.Capabilities",,,,0,"File:Plugins/MoonSharp/Debugger/SDK/DebugSession.cs:MoonSharp.VsCodeDebugger.SDK.Capabilities.exceptionBreakpointFilters","CSharpClass:MoonSharp.VsCodeDebugger.SDK.Capabilities:exceptionBreakpointFilters"]]]]);

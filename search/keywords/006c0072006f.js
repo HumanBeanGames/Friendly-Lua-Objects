@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lro",["Function"],[["lrotate",,[["MoonSharp.Interpreter.CoreLib.Bit32Module",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/Bit32Module.cs:MoonSharp.Interpreter.CoreLib.Bit32Module.lrotate","CSharpClass:MoonSharp.Interpreter.CoreLib.Bit32Module:lrotate"]]]]);

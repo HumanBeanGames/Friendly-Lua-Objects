@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("CSharpClass:MoonSharp.Interpreter.CodeAnalysis.AstNode",{498:"<div class=\"NDToolTip TClass LCSharp\"><div class=\"NDClassPrototype\" id=\"NDClassPrototype498\"><div class=\"CPEntry TClass Current\"><div class=\"CPName\"><span class=\"Qualifier\">MoonSharp.&#8203;Interpreter.&#8203;CodeAnalysis.</span>&#8203;AstNode</div></div></div></div>"});

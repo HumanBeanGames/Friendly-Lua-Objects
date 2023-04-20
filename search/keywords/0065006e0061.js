@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ena",["Property"],[["Enabled",,[["MoonSharp.Interpreter.Diagnostics.PerformanceStatistics",,,,0,"File:Plugins/MoonSharp/Interpreter/Diagnostics/PerformanceStatistics.cs:MoonSharp.Interpreter.Diagnostics.PerformanceStatistics.Enabled","CSharpClass:MoonSharp.Interpreter.Diagnostics.PerformanceStatistics:Enabled"]]]]);

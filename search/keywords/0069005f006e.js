@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("i_n",["Variable"],[["i_Name",,[["MoonSharp.Interpreter.SymbolRef",,,,0,"File:Plugins/MoonSharp/Interpreter/DataTypes/SymbolRef.cs:MoonSharp.Interpreter.SymbolRef.i_Name","CSharpClass:MoonSharp.Interpreter.SymbolRef:i_Name"]]]]);

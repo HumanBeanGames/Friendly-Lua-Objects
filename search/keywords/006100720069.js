@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ari",["Function"],[["ArithmeticOnNonNumber",,[["MoonSharp.Interpreter.ScriptRuntimeException",,,,0,"File:Plugins/MoonSharp/Interpreter/Errors/ScriptRuntimeException.cs:MoonSharp.Interpreter.ScriptRuntimeException.ArithmeticOnNonNumber","CSharpClass:MoonSharp.Interpreter.ScriptRuntimeException:ArithmeticOnNonNumber"]]]]);

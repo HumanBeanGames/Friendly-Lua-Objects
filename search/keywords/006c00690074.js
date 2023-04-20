@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lit",["Class"],[["LiteralExpression",,[["MoonSharp.Interpreter.Tree.Expressions",,,,0,"File:Plugins/MoonSharp/Interpreter/Tree/Expressions/LiteralExpression.cs:MoonSharp.Interpreter.Tree.Expressions.LiteralExpression","CSharpClass:MoonSharp.Interpreter.Tree.Expressions.LiteralExpression"]]]]);

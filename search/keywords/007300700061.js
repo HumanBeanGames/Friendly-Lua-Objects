@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("spa",["Function"],[["SpawnThread",,[["MoonSharp.VsCodeDebugger.MoonSharpVsCodeDebugServer",,,,0,"File:Plugins/MoonSharp/Debugger/MoonSharpVsCodeDebugServer.cs:MoonSharp.VsCodeDebugger.MoonSharpVsCodeDebugServer.SpawnThread","CSharpClass:MoonSharp.VsCodeDebugger.MoonSharpVsCodeDebugServer:SpawnThread"]]]]);

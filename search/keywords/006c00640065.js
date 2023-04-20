@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lde",["Function"],[["ldexp",,[["MoonSharp.Interpreter.CoreLib.MathModule",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/MathModule.cs:MoonSharp.Interpreter.CoreLib.MathModule.ldexp","CSharpClass:MoonSharp.Interpreter.CoreLib.MathModule:ldexp"]]]]);

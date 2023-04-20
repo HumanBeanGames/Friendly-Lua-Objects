@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("asl",["Function"],[["AsLong",,[["MoonSharp.Interpreter.CallbackArguments",,,,0,"File:Plugins/MoonSharp/Interpreter/DataTypes/CallbackArguments.cs:MoonSharp.Interpreter.CallbackArguments.AsLong","CSharpClass:MoonSharp.Interpreter.CallbackArguments:AsLong"]]]]);

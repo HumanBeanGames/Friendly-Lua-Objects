@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ide",["Interface"],[["IDebugger",,[["MoonSharp.Interpreter.Debugging",,,,0,"File:Plugins/MoonSharp/Interpreter/Debugging/IDebugger.cs:MoonSharp.Interpreter.Debugging.IDebugger","CSharpClass:MoonSharp.Interpreter.Debugging.IDebugger"]]]]);

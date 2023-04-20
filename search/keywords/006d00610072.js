@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mar",["Function"],[["MarkClrCallbackAsDead",,[["MoonSharp.Interpreter.Coroutine",,,,0,"File:Plugins/MoonSharp/Interpreter/DataTypes/Coroutine.cs:MoonSharp.Interpreter.Coroutine.MarkClrCallbackAsDead","CSharpClass:MoonSharp.Interpreter.Coroutine:MarkClrCallbackAsDead"]]]]);

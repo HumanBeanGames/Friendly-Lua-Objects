@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("oss",["Class"],[["OsSystemModule",,[["MoonSharp.Interpreter.CoreLib",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/OsSystemModule.cs:MoonSharp.Interpreter.CoreLib.OsSystemModule","CSharpClass:MoonSharp.Interpreter.CoreLib.OsSystemModule"]]]]);

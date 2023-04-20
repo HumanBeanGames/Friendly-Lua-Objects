@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Friendly_Lua_Objects/Core/CommaSeparatedStringsAttribute.cs","CommaSeparatedStringsAttribute.cs");NDSummary.OnSummaryLoaded("File:Friendly_Lua_Objects/Core/CommaSeparatedStringsAttribute.cs",[["C#","CSharp"]],[["Classes","Class"]],[[57,0,0,"CommaSeparatedStringsAttribute","CommaSeparatedStringsAttribute"]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:MoonSharp.Interpreter.MoonSharpHiddenAttribute","MoonSharpHiddenAttribute");NDSummary.OnSummaryLoaded("CSharpClass:MoonSharp.Interpreter.MoonSharpHiddenAttribute",[["C#","CSharp"]],[["Classes","Class"]],[[2189,0,0,"<span class=\"Qualifier\">MoonSharp.&#8203;Interpreter.</span>&#8203;MoonSharpHiddenAttribute"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("iop",["Interface"],[["IOptimizableDescriptor",,[["MoonSharp.Interpreter.Interop.BasicDescriptors",,,,0,"File:Plugins/MoonSharp/Interpreter/Interop/BasicDescriptors/IOptimizableDescriptor.cs:MoonSharp.Interpreter.Interop.BasicDescriptors.IOptimizableDescriptor","CSharpClass:MoonSharp.Interpreter.Interop.BasicDescriptors.IOptimizableDescriptor"]]]]);

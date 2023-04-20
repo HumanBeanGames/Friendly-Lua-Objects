@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("asc",["Function"],[["AsCoroutine",,[["LuaScriptable",,,,0,"File:Friendly_Lua_Objects/Core/LuaScriptable.cs:LuaScriptable.AsCoroutine","CSharpClass:LuaScriptable:AsCoroutine"]]]]);

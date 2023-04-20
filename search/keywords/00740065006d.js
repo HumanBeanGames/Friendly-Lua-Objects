@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tem",["Variable"],[["template",,[["LuaFunctionCreator",,,,0,"File:Friendly_Lua_Objects/Editor/LuaFunctionCreator.cs:LuaFunctionCreator.template","CSharpClass:LuaFunctionCreator:template"]]]]);

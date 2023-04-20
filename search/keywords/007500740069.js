@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("uti",["Class"],[["Utilities",,[["MoonSharp.VsCodeDebugger.SDK",,,,0,"File:Plugins/MoonSharp/Debugger/SDK/Utilities.cs:MoonSharp.VsCodeDebugger.SDK.Utilities","CSharpClass:MoonSharp.VsCodeDebugger.SDK.Utilities"]]]]);

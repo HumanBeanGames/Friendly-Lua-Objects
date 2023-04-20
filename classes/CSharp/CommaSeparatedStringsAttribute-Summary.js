@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:CommaSeparatedStringsAttribute","CommaSeparatedStringsAttribute");NDSummary.OnSummaryLoaded("CSharpClass:CommaSeparatedStringsAttribute",[["C#","CSharp"]],[["Classes","Class"]],[[57,0,0,"CommaSeparatedStringsAttribute"]]);

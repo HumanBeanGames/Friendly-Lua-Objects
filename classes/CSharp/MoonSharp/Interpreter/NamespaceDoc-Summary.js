@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:MoonSharp.Interpreter.NamespaceDoc","NamespaceDoc");NDSummary.OnSummaryLoaded("CSharpClass:MoonSharp.Interpreter.NamespaceDoc",[["C#","CSharp"]],[["Classes","Class"]],[[3970,0,0,"<span class=\"Qualifier\">MoonSharp.&#8203;Interpreter.</span>&#8203;NamespaceDoc"]]);

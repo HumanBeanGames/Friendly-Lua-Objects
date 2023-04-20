@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isj",["Function"],[["IsJsonNull",,[["MoonSharp.Interpreter.Serialization.Json.JsonNull",,,,0,"File:Plugins/MoonSharp/Interpreter/Serialization/Json/JsonNull.cs:MoonSharp.Interpreter.Serialization.Json.JsonNull.IsJsonNull","CSharpClass:MoonSharp.Interpreter.Serialization.Json.JsonNull:IsJsonNull"]]]]);

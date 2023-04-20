@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ilo",["Interface"],[["ILoop",,[["MoonSharp.Interpreter.Execution",,,,0,"File:Plugins/MoonSharp/Interpreter/Execution/Scopes/LoopTracker.cs:MoonSharp.Interpreter.Execution.ILoop","CSharpClass:MoonSharp.Interpreter.Execution.ILoop"]]]]);

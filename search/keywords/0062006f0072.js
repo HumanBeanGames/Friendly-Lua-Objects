@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bor",["Function"],[["bor",,[["MoonSharp.Interpreter.CoreLib.Bit32Module",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/Bit32Module.cs:MoonSharp.Interpreter.CoreLib.Bit32Module.bor","CSharpClass:MoonSharp.Interpreter.CoreLib.Bit32Module:bor"]]]]);

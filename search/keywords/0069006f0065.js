@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ioe",["Function"],[["IoExceptionToLuaMessage",,[["MoonSharp.Interpreter.CoreLib.IoModule",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/IoModule.cs:MoonSharp.Interpreter.CoreLib.IoModule.IoExceptionToLuaMessage","CSharpClass:MoonSharp.Interpreter.CoreLib.IoModule:IoExceptionToLuaMessage"]]]]);

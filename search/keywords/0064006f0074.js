@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dot",["Class"],[["DotNetCorePlatformAccessor",,[["MoonSharp.Interpreter.Platforms",,,,0,"File:Plugins/MoonSharp/Interpreter/Platforms/DotNetCorePlatformAccessor.cs:MoonSharp.Interpreter.Platforms.DotNetCorePlatformAccessor","CSharpClass:MoonSharp.Interpreter.Platforms.DotNetCorePlatformAccessor"]]]]);

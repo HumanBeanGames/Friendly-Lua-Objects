@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("@by",["Function"],[["@byte",,[["MoonSharp.Interpreter.CoreLib.StringModule",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/StringModule.cs:MoonSharp.Interpreter.CoreLib.StringModule.@byte","CSharpClass:MoonSharp.Interpreter.CoreLib.StringModule:@byte"]]]]);

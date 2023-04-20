@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("do",["Property"],[["Do",,[["MoonSharp.Interpreter.Compatibility.Framework",,,,0,"File:Plugins/MoonSharp/Interpreter/Compatibility/Framework.cs:MoonSharp.Interpreter.Compatibility.Framework.Do","CSharpClass:MoonSharp.Interpreter.Compatibility.Framework:Do"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("syn",["Class"],[["SyntaxErrorException",,[["MoonSharp.Interpreter",,,,0,"File:Plugins/MoonSharp/Interpreter/Errors/SyntaxErrorException.cs:MoonSharp.Interpreter.SyntaxErrorException","CSharpClass:MoonSharp.Interpreter.SyntaxErrorException"]]]]);

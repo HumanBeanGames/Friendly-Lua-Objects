@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lim",["Class"],[["LimitedPlatformAccessor",,[["MoonSharp.Interpreter.Platforms",,,,0,"File:Plugins/MoonSharp/Interpreter/Platforms/LimitedPlatformAccessor.cs:MoonSharp.Interpreter.Platforms.LimitedPlatformAccessor","CSharpClass:MoonSharp.Interpreter.Platforms.LimitedPlatformAccessor"]]]]);

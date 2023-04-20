@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("wel",["Class"],[["WellKnownSymbols",,[["MoonSharp.Interpreter",,,,0,"File:Plugins/MoonSharp/Interpreter/DataTypes/WellKnownSymbols.cs:MoonSharp.Interpreter.WellKnownSymbols","CSharpClass:MoonSharp.Interpreter.WellKnownSymbols"]]]]);

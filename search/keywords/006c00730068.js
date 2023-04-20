@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lsh",["Function"],[["lshift",,[["MoonSharp.Interpreter.CoreLib.Bit32Module",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/Bit32Module.cs:MoonSharp.Interpreter.CoreLib.Bit32Module.lshift","CSharpClass:MoonSharp.Interpreter.CoreLib.Bit32Module:lshift"]]]]);

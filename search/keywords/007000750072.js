@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pur",["Function"],[["PurifyFromNewLines",,[["MoonSharp.Interpreter.Execution.VM.Instruction",,,,0,"File:Plugins/MoonSharp/Interpreter/Execution/VM/Instruction.cs:MoonSharp.Interpreter.Execution.VM.Instruction.PurifyFromNewLines","CSharpClass:MoonSharp.Interpreter.Execution.VM.Instruction:PurifyFromNewLines"]]]]);

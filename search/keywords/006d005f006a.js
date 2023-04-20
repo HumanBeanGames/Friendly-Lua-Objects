@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("m_j",["Variable"],[["m_Jump",,[["MoonSharp.Interpreter.Tree.Statements.GotoStatement",,,,0,"File:Plugins/MoonSharp/Interpreter/Tree/Statements/GotoStatement.cs:MoonSharp.Interpreter.Tree.Statements.GotoStatement.m_Jump","CSharpClass:MoonSharp.Interpreter.Tree.Statements.GotoStatement:m_Jump"]]]]);

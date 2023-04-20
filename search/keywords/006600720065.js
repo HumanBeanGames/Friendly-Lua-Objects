@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fre",["Function"],[["frexp",,[["MoonSharp.Interpreter.CoreLib.MathModule",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/MathModule.cs:MoonSharp.Interpreter.CoreLib.MathModule.frexp","CSharpClass:MoonSharp.Interpreter.CoreLib.MathModule:frexp"]]]]);

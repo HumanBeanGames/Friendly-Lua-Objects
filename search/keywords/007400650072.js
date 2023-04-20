@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ter",["Class"],[["TerminatedEvent",,[["MoonSharp.VsCodeDebugger.SDK",,,,0,"File:Plugins/MoonSharp/Debugger/SDK/DebugSession.cs:MoonSharp.VsCodeDebugger.SDK.TerminatedEvent","CSharpClass:MoonSharp.VsCodeDebugger.SDK.TerminatedEvent"]]]]);

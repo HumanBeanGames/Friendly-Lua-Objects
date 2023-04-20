@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ifb",["Class"],[["IfBlock",,[["MoonSharp.Interpreter.Tree.Statements.IfStatement",,,,0,"File:Plugins/MoonSharp/Interpreter/Tree/Statements/IfStatement.cs:MoonSharp.Interpreter.Tree.Statements.IfStatement.IfBlock","CSharpClass:MoonSharp.Interpreter.Tree.Statements.IfStatement.IfBlock"]]]]);

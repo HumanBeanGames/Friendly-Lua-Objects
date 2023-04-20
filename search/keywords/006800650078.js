@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hex",["Function"],[["HexDigit2Value",,[["MoonSharp.Interpreter.Tree.LexerUtils",,,,0,"File:Plugins/MoonSharp/Interpreter/Tree/Lexer/LexerUtils.cs:MoonSharp.Interpreter.Tree.LexerUtils.HexDigit2Value","CSharpClass:MoonSharp.Interpreter.Tree.LexerUtils:HexDigit2Value"]]]]);

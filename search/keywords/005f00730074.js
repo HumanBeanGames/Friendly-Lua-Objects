@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_st",["Variable"],[["_stopRequested",,[["MoonSharp.VsCodeDebugger.SDK.ProtocolServer",,,,0,"File:Plugins/MoonSharp/Debugger/SDK/Protocol.cs:MoonSharp.VsCodeDebugger.SDK.ProtocolServer._stopRequested","CSharpClass:MoonSharp.VsCodeDebugger.SDK.ProtocolServer:_stopRequested"]]]]);

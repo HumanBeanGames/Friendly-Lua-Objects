@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("__n",["Function"],[["__next_i",,[["MoonSharp.Interpreter.CoreLib.TableIteratorsModule",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/TableIteratorsModule.cs:MoonSharp.Interpreter.CoreLib.TableIteratorsModule.__next_i","CSharpClass:MoonSharp.Interpreter.CoreLib.TableIteratorsModule:__next_i"]]]]);

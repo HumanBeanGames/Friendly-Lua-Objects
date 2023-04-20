@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Friendly_Lua_Objects/Core/LuaRegisterAttribute.cs","LuaRegisterAttribute.cs");NDSummary.OnSummaryLoaded("File:Friendly_Lua_Objects/Core/LuaRegisterAttribute.cs",[["C#","CSharp"]],[["Classes","Class"]],[[45,0,0,"LuaRegisterAttribute","LuaRegisterAttribute"]]);

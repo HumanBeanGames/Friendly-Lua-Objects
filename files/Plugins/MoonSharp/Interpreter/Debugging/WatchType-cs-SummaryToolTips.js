@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Plugins/MoonSharp/Interpreter/Debugging/WatchType.cs",{1480:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype1480\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> WatchType</div></div><div class=\"TTSummary\">Enumeration of the possible watch types</div></div>"});

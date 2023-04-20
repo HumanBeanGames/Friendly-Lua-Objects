@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("deg",["Function"],[["deg",,[["MoonSharp.Interpreter.CoreLib.MathModule",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/MathModule.cs:MoonSharp.Interpreter.CoreLib.MathModule.deg","CSharpClass:MoonSharp.Interpreter.CoreLib.MathModule:deg"]]]]);

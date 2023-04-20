@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:MoonSharp.Interpreter.CodeAnalysis.AstNode","AstNode");NDSummary.OnSummaryLoaded("CSharpClass:MoonSharp.Interpreter.CodeAnalysis.AstNode",[["C#","CSharp"]],[["Classes","Class"]],[[498,0,0,"<span class=\"Qualifier\">MoonSharp.&#8203;Interpreter.&#8203;CodeAnalysis.</span>&#8203;AstNode"]]);

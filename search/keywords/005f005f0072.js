@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("__r",["Function"],[["__require_clr_impl",,[["MoonSharp.Interpreter.CoreLib.LoadModule",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/LoadModule.cs:MoonSharp.Interpreter.CoreLib.LoadModule.__require_clr_impl","CSharpClass:MoonSharp.Interpreter.CoreLib.LoadModule:__require_clr_impl"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sli",["Class"],[["Slice",,[["MoonSharp.Interpreter.DataStructs",,,,0,"File:Plugins/MoonSharp/Interpreter/DataStructs/Slice.cs:MoonSharp.Interpreter.DataStructs.Slice","CSharpClass:MoonSharp.Interpreter.DataStructs.Slice"]]]]);

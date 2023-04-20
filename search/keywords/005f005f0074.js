@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("__t",["Function"],[["__tostring_continuation",,[["MoonSharp.Interpreter.CoreLib.BasicModule",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/BasicModule.cs:MoonSharp.Interpreter.CoreLib.BasicModule.__tostring_continuation","CSharpClass:MoonSharp.Interpreter.CoreLib.BasicModule:__tostring_continuation"]]]]);

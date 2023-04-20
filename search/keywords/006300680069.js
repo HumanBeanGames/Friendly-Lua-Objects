@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("chi",["Property"],[["ChildNodes",,[["MoonSharp.Interpreter.Execution.Scopes.BuildTimeScopeBlock",,,,0,"File:Plugins/MoonSharp/Interpreter/Execution/Scopes/BuildTimeScopeBlock.cs:MoonSharp.Interpreter.Execution.Scopes.BuildTimeScopeBlock.ChildNodes","CSharpClass:MoonSharp.Interpreter.Execution.Scopes.BuildTimeScopeBlock:ChildNodes"]]]]);

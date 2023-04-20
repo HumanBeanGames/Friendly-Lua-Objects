@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lva",["Property"],[["LValue",,[["MoonSharp.Interpreter.Debugging.WatchItem",,,,0,"File:Plugins/MoonSharp/Interpreter/Debugging/WatchItem.cs:MoonSharp.Interpreter.Debugging.WatchItem.LValue","CSharpClass:MoonSharp.Interpreter.Debugging.WatchItem:LValue"]]]]);

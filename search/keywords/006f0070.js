@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("op",["Variable"],[["Op",,[["MoonSharp.Interpreter.Tree.Expressions.BinaryOperatorExpression.Node",,,,0,"File:Plugins/MoonSharp/Interpreter/Tree/Expressions/BinaryOperatorExpression.cs:MoonSharp.Interpreter.Tree.Expressions.BinaryOperatorExpression.Node.Op","CSharpClass:MoonSharp.Interpreter.Tree.Expressions.BinaryOperatorExpression.Node:Op"]]]]);

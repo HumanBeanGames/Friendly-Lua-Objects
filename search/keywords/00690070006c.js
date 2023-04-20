@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ipl",["Interface"],[["IPlatformAccessor",,[["MoonSharp.Interpreter.Platforms",,,,0,"File:Plugins/MoonSharp/Interpreter/Platforms/IPlatformAccessor.cs:MoonSharp.Interpreter.Platforms.IPlatformAccessor","CSharpClass:MoonSharp.Interpreter.Platforms.IPlatformAccessor"]]]]);

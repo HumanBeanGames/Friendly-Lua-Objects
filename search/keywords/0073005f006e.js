@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("s_n",["Variable"],[["s_NilNode",,[["MoonSharp.Interpreter.TablePair",,,,0,"File:Plugins/MoonSharp/Interpreter/DataTypes/TablePair.cs:MoonSharp.Interpreter.TablePair.s_NilNode","CSharpClass:MoonSharp.Interpreter.TablePair:s_NilNode"]]]]);

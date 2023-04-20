@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("age",["Property"],[["Age",,[["MoonSharp.Interpreter.Debugging.DebuggerAction",,,,0,"File:Plugins/MoonSharp/Interpreter/Debugging/DebuggerAction.cs:MoonSharp.Interpreter.Debugging.DebuggerAction.Age","CSharpClass:MoonSharp.Interpreter.Debugging.DebuggerAction:Age"]]]]);

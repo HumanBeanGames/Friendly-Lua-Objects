@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tex",["Property"],[["Text",,[["MoonSharp.Interpreter.Tree.Token",,,,0,"File:Plugins/MoonSharp/Interpreter/Tree/Lexer/Token.cs:MoonSharp.Interpreter.Tree.Token.Text","CSharpClass:MoonSharp.Interpreter.Tree.Token:Text"]]]]);

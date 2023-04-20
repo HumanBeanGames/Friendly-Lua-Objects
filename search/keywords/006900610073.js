@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ias",["Interface"],[["IAsyncDebuggerClient",,[["MoonSharp.VsCodeDebugger.DebuggerLogic",,,,0,"File:Plugins/MoonSharp/Debugger/DebuggerLogic/IAsyncDebuggerClient.cs:MoonSharp.VsCodeDebugger.DebuggerLogic.IAsyncDebuggerClient","CSharpClass:MoonSharp.VsCodeDebugger.DebuggerLogic.IAsyncDebuggerClient"]]]]);

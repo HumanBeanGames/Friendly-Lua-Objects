@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("iom",["Class"],[["IoModule",,[["MoonSharp.Interpreter.CoreLib",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/IoModule.cs:MoonSharp.Interpreter.CoreLib.IoModule","CSharpClass:MoonSharp.Interpreter.CoreLib.IoModule"]]]]);

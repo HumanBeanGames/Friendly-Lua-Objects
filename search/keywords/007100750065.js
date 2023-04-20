@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("que",["Function"],[["QueueAction",,[["MoonSharp.VsCodeDebugger.DebuggerLogic.AsyncDebugger",,,,0,"File:Plugins/MoonSharp/Debugger/DebuggerLogic/AsyncDebugger.cs:MoonSharp.VsCodeDebugger.DebuggerLogic.AsyncDebugger.QueueAction","CSharpClass:MoonSharp.VsCodeDebugger.DebuggerLogic.AsyncDebugger:QueueAction"]]]]);

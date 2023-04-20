@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("l",["Variable"],[["L",,[["MoonSharp.Interpreter.CoreLib.StringLib.KopiLua_StringLib.MatchState",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/StringLib/KopiLua_StrLib.cs:MoonSharp.Interpreter.CoreLib.StringLib.KopiLua_StringLib.MatchState.L","CSharpClass:MoonSharp.Interpreter.CoreLib.StringLib.KopiLua_StringLib.MatchState:L"]]]]);

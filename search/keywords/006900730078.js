@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isx",["Function"],[["isxdigit",,[["MoonSharp.Interpreter.Interop.LuaStateInterop.LuaBase",,,,0,"File:Plugins/MoonSharp/Interpreter/Interop/LuaStateInterop/LuaBase_CLib.cs:MoonSharp.Interpreter.Interop.LuaStateInterop.LuaBase.isxdigit","CSharpClass:MoonSharp.Interpreter.Interop.LuaStateInterop.LuaBase:isxdigit"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dif",["Function"],[["difftime",,[["MoonSharp.Interpreter.CoreLib.OsTimeModule",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/OsTimeModule.cs:MoonSharp.Interpreter.CoreLib.OsTimeModule.difftime","CSharpClass:MoonSharp.Interpreter.CoreLib.OsTimeModule:difftime"]]]]);

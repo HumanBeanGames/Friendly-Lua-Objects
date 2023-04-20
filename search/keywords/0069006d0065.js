@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ime",["Interface"],[["IMemberDescriptor",,[["MoonSharp.Interpreter.Interop.BasicDescriptors",,,,0,"File:Plugins/MoonSharp/Interpreter/Interop/BasicDescriptors/IMemberDescriptor.cs:MoonSharp.Interpreter.Interop.BasicDescriptors.IMemberDescriptor","CSharpClass:MoonSharp.Interpreter.Interop.BasicDescriptors.IMemberDescriptor"]]]]);

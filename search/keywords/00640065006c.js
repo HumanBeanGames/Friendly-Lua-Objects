@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("del",["Class"],[["DelegateProxyFactory",,[["MoonSharp.Interpreter.Interop",,,,0,"File:Plugins/MoonSharp/Interpreter/Interop/ProxyObjects/DelegateProxyFactory.cs:MoonSharp.Interpreter.Interop.DelegateProxyFactory","CSharpClass:MoonSharp.Interpreter.Interop.DelegateProxyFactory"]]]]);

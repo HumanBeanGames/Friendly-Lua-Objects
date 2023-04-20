@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Friendly_Lua_Objects/Core/Expose.cs","Expose.cs");NDSummary.OnSummaryLoaded("File:Friendly_Lua_Objects/Core/Expose.cs",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[58,0,0,"LuaAPI","LuaAPI"],[59,0,2,"Functions","LuaAPI.Functions"],[60,0,1,"Expose","LuaAPI.Expose"]]);

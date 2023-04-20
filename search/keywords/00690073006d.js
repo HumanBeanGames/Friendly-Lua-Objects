@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ism",["Property"],[["IsMethodCall",,[["MoonSharp.Interpreter.CallbackArguments",,,,0,"File:Plugins/MoonSharp/Interpreter/DataTypes/CallbackArguments.cs:MoonSharp.Interpreter.CallbackArguments.IsMethodCall","CSharpClass:MoonSharp.Interpreter.CallbackArguments:IsMethodCall"]]]]);

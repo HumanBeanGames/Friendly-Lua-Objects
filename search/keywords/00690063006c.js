@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("icl",["Interface"],[["IClosureBuilder",,[["MoonSharp.Interpreter.Execution",,,,0,"File:Plugins/MoonSharp/Interpreter/Execution/Scopes/IClosureBuilder.cs:MoonSharp.Interpreter.Execution.IClosureBuilder","CSharpClass:MoonSharp.Interpreter.Execution.IClosureBuilder"]]]]);

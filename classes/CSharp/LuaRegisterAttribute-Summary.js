@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:LuaRegisterAttribute","LuaRegisterAttribute");NDSummary.OnSummaryLoaded("CSharpClass:LuaRegisterAttribute",[["C#","CSharp"]],[["Classes","Class"]],[[45,0,0,"LuaRegisterAttribute"]]);

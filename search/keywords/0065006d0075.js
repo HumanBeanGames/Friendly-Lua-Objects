@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("emu",["Function"],[["EmulateClassicCall",,[["MoonSharp.Interpreter.ScriptExecutionContext",,,,0,"File:Plugins/MoonSharp/Interpreter/Execution/ScriptExecutionContext.cs:MoonSharp.Interpreter.ScriptExecutionContext.EmulateClassicCall","CSharpClass:MoonSharp.Interpreter.ScriptExecutionContext:EmulateClassicCall"]]]]);

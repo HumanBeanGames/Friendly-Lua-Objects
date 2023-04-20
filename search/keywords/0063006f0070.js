@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cop",["Function"],[["CopyTo",,[["MoonSharp.Interpreter.DataStructs.Slice",,,,0,"File:Plugins/MoonSharp/Interpreter/DataStructs/Slice.cs:MoonSharp.Interpreter.DataStructs.Slice.CopyTo","CSharpClass:MoonSharp.Interpreter.DataStructs.Slice:CopyTo"]]]]);

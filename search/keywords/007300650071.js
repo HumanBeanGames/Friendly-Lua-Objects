@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("seq",["Variable"],[["seq",,[["MoonSharp.VsCodeDebugger.SDK.ProtocolMessage",,,,0,"File:Plugins/MoonSharp/Debugger/SDK/Protocol.cs:MoonSharp.VsCodeDebugger.SDK.ProtocolMessage.seq","CSharpClass:MoonSharp.VsCodeDebugger.SDK.ProtocolMessage:seq"]]]]);

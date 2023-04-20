@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("vis",["Property"],[["Visible",,[["MoonSharp.Interpreter.Interop.MoonSharpVisibleAttribute",,,,0,"File:Plugins/MoonSharp/Interpreter/Interop/Attributes/MoonSharpVisibleAttribute.cs:MoonSharp.Interpreter.Interop.MoonSharpVisibleAttribute.Visible","CSharpClass:MoonSharp.Interpreter.Interop.MoonSharpVisibleAttribute:Visible"]]]]);

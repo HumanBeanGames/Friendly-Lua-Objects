@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lea",["Function"],[["LeaveProcessor",,[["MoonSharp.Interpreter.Execution.VM.Processor",,,,0,"File:Plugins/MoonSharp/Interpreter/Execution/VM/Processor/Processor.cs:MoonSharp.Interpreter.Execution.VM.Processor.LeaveProcessor","CSharpClass:MoonSharp.Interpreter.Execution.VM.Processor:LeaveProcessor"]]]]);

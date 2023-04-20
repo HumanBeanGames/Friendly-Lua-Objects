@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gfi",["Function"],[["gfind_nodef",,[["MoonSharp.Interpreter.CoreLib.StringLib.KopiLua_StringLib",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/StringLib/KopiLua_StrLib.cs:MoonSharp.Interpreter.CoreLib.StringLib.KopiLua_StringLib.gfind_nodef","CSharpClass:MoonSharp.Interpreter.CoreLib.StringLib.KopiLua_StringLib:gfind_nodef"]]]]);

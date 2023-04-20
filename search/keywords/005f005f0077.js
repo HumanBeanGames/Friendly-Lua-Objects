@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("__w",["Function"],[["__wrap_wrapper",,[["MoonSharp.Interpreter.CoreLib.CoroutineModule",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/CoroutineModule.cs:MoonSharp.Interpreter.CoreLib.CoroutineModule.__wrap_wrapper","CSharpClass:MoonSharp.Interpreter.CoreLib.CoroutineModule:__wrap_wrapper"]]]]);

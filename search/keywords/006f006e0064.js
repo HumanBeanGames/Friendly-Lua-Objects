@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ond",["Function"],[["OnDisable",,[["LuaScriptableCreationWindow",,,,0,"File:Friendly_Lua_Objects/Editor/LuaScriptableCreationWindow.cs:LuaScriptableCreationWindow.OnDisable","CSharpClass:LuaScriptableCreationWindow:OnDisable"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dir",["Variable"],[["DirectoryPath",,[["LuaScriptable",,,,0,"File:Friendly_Lua_Objects/Core/LuaScriptable.cs:LuaScriptable.DirectoryPath","CSharpClass:LuaScriptable:DirectoryPath"]]]]);

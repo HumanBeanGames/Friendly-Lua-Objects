@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("__i",["Function"],[["__index_callback",,[["MoonSharp.Interpreter.CoreLib.IoModule",,,,0,"File:Plugins/MoonSharp/Interpreter/CoreLib/IoModule.cs:MoonSharp.Interpreter.CoreLib.IoModule.__index_callback","CSharpClass:MoonSharp.Interpreter.CoreLib.IoModule:__index_callback"]]]]);

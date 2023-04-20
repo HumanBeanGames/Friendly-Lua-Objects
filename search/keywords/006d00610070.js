@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("map",["Function"],[["MapField",,[["MoonSharp.Interpreter.Tree.Expressions.TableConstructor",,,,0,"File:Plugins/MoonSharp/Interpreter/Tree/Expressions/TableConstructor.cs:MoonSharp.Interpreter.Tree.Expressions.TableConstructor.MapField","CSharpClass:MoonSharp.Interpreter.Tree.Expressions.TableConstructor:MapField"]]]]);

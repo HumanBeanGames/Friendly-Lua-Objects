@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("aso",["Function"],[["AsObjects",,[["MoonSharp.Interpreter.LinqHelpers",,,,0,"File:Plugins/MoonSharp/Interpreter/LinqHelpers.cs:MoonSharp.Interpreter.LinqHelpers.AsObjects","CSharpClass:MoonSharp.Interpreter.LinqHelpers:AsObjects"]]]]);

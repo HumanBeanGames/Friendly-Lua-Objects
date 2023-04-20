@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("emb",["Class"],[["EmbeddedResourcesScriptLoader",,[["MoonSharp.Interpreter.Loaders",,,,0,"File:Plugins/MoonSharp/Interpreter/Loaders/EmbeddedResourcesScriptLoader.cs:MoonSharp.Interpreter.Loaders.EmbeddedResourcesScriptLoader","CSharpClass:MoonSharp.Interpreter.Loaders.EmbeddedResourcesScriptLoader"]]]]);
